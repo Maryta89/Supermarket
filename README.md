@@ -40,7 +40,7 @@ The dataset includes columns like:
 
 ## 📈 Visualizations
 Add screenshots of your charts here:
-- ![Bar Chart](images/bar_chart.png)
+- ![Bar Chart](Supermarket/bar_chart.png)
 - ![Line Chart](images/line_chart.png)
 - ![Pie Chart](images/pie_chart.png)
 - ![Histogram](images/histogram.png)
