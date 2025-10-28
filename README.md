@@ -42,10 +42,10 @@ The dataset includes columns like:
 Add screenshots of your charts here:
 - ![Bar Chart](bar_chart.png)
 - ![Line Chart](line_chart.png)
-- ![Pie Chart](images/pie_chart.png)
-- ![Histogram](images/histogram.png)
-- ![Scatter Plot](images/scatter_plot.png)
-- ![Heatmap](images/heatmap.png)
+- ![Pie Chart](pie_chart.png)
+- ![Histogram](histogram.png)
+- ![Scatter Plot](scatter_plot.png)
+- ![Heatmap](heatmap.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
