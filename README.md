@@ -16,3 +16,8 @@ This project analyzes supermarket sales data and visualizes key insights using P
   - Scatter plot (Sales vs Gross Income)
   - Heatmap (Correlation Matrix)
 
+## 🛠 Technologies Used
+- Python
+- Pandas
+- Plotly
+
