@@ -21,3 +21,10 @@ This project analyzes supermarket sales data and visualizes key insights using P
 - Pandas
 - Plotly
 
+## 📂 Installation
+```bash
+git clone <your-repo-link>
+cd <your-repo-folder>
+pip install -r requirements.txt
+```
+
