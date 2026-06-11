@@ -28,3 +28,9 @@ cd <your-repo-folder>
 pip install -r requirements.txt
 ```
 
+## ▶ Usage
+Run the script:
+```bash
+python supermarket_analysis.py
+```
+
