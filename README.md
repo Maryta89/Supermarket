@@ -34,3 +34,7 @@ Run the script:
 python supermarket_analysis.py
 ```
 
+## 📊 Dataset
+The dataset includes columns like:
+`Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quantity, Tax 5%, Sales, Date, Time, Payment, cogs, gross income, Rating`
+
