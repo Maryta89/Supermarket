@@ -38,3 +38,12 @@ python supermarket_analysis.py
 The dataset includes columns like:
 `Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quantity, Tax 5%, Sales, Date, Time, Payment, cogs, gross income, Rating`
 
+## 📈 Visualizations
+Add screenshots of your charts here:
+- ![Bar Chart](bar_chart.png)
+- ![Line Chart](line_chart.png)
+- ![Pie Chart](pie_chart.png)
+- ![Histogram](histogram.png)
+- ![Scatter Plot](scatter_plot.png)
+- ![Heatmap](heatmap.png)
+
