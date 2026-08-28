@@ -47,3 +47,7 @@ Add screenshots of your charts here:
 - ![Scatter Plot](scatter_plot.png)
 - ![Heatmap](heatmap.png)
 
+## 📜 License
+This project is licensed under the MIT License.
+
+## Analysis Update
